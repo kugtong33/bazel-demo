@@ -1,0 +1,14 @@
+{
+  "name": "bazel-demo",
+  "version": "1.0.0",
+  "description": "bazel demo workspace",
+  "dependencies": {
+    "@bazel/typescript": "^4.4.6",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.10",
+    "jest": "^27.3.1",
+    "systeminformation": "^5.9.15",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.5.2"
+  }
+}
